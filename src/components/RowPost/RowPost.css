@@ -10,10 +10,24 @@
     overflow-y: hidden;
 }
 .poster{
-    max-height: 240px;
+    max-height: 250px;
     margin-right: 10px;
+    cursor: pointer;
+
 }
 .posters::-webkit-scrollbar
     {
     display: none;
+}
+.smallposter{
+    max-height: 150px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.poster:hover{
+    transform: scale(1.1);
+
+}
+.smallposter:hover{
+    transform:scale(1.08)
 }
