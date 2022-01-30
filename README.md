@@ -5,7 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Preview
 
-Preview the example live of Netflix clone deployed🚀 on Netlify.App https://adoring-thompson-dddd36.netlify.app/
+Preview the example live of Netflix clone deployed🚀 on Netlify.App
+## https://adoring-thompson-dddd36.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
